@@ -1,0 +1,43 @@
+@import 'config';
+@import 'header';
+@import 'cards';
+@import 'responsive';
+
+$FooterSize: 30px;
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  background-color: $VeryLightGray;
+  // min-height: 100%;
+  // padding-top: 15px;
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+main {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+  padding-bottom: $FooterSize;
+  text-align: center;
+
+  section {
+    margin-bottom: 8px;
+  }
+}
+
+footer {
+  position: relative;
+  margin-top: -$FooterSize;
+  height: $FooterSize;
+  clear: both;
+}

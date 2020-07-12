@@ -1,0 +1,134 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+main h1 {
+  font-size: 2.5em;
+  font-weight: 200;
+  margin: 8px;
+  margin-top: 40px;
+  color: #4c4e61;
+}
+
+main h1 span {
+  display: block;
+  font-weight: 600;
+}
+
+main p {
+  max-width: calc(1440px / 2);
+  margin: 12px;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  color: #a3a5ae;
+}
+
+section article:nth-child(1) {
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+  border-top-color: #45d3d3;
+}
+
+section article:nth-child(3) {
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+  border-top-color: #549ef2;
+}
+
+section article:nth-child(4) {
+  border-top-color: #fcaf4a;
+}
+
+article {
+  width: 90%;
+  height: 220px;
+  display: inline-block;
+  vertical-align: top;
+  background: white;
+  position: relative;
+  text-align: left;
+  padding: 15px;
+  padding-right: 30px;
+  margin-bottom: 30px;
+  color: #a3a5ae;
+  border-top: 5px solid #ea5353;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 8px 16px rgba(163, 165, 174, 0.4);
+          box-shadow: 0px 8px 16px rgba(163, 165, 174, 0.4);
+  margin: 15px;
+}
+
+article h2 {
+  color: #4c4e61;
+  margin-top: 8px;
+  margin-bottom: 5px;
+}
+
+article img {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+}
+
+@media screen and (min-width: 768px) {
+  main p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  main article {
+    width: 40%;
+  }
+}
+
+@media screen and (min-width: 768px) and (min-width: 1024px) {
+  main section article:nth-child(1) {
+    -webkit-transform: translateY(50%);
+            transform: translateY(50%);
+  }
+  main section article:nth-child(3) {
+    -webkit-transform: translateY(50%);
+            transform: translateY(50%);
+  }
+  main article {
+    width: 27%;
+  }
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  background-color: #fafafa;
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+main {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+main section {
+  margin-bottom: 8px;
+}
+
+footer {
+  position: relative;
+  margin-top: -30px;
+  height: 30px;
+  clear: both;
+}
+/*# sourceMappingURL=main.css.map */

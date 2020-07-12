@@ -1,0 +1,20 @@
+main {
+  h1 {
+    font-size: 2.5em;
+    font-weight: 200;
+    margin: 8px;
+    margin-top: 40px;
+    color: $VeryDarkBlue;
+    span {
+      display: block;
+      font-weight: 600;
+    }
+  }
+  p {
+    max-width: calc(1440px / 2);
+    margin: 12px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    color: $GrayishBlue;
+  }
+}

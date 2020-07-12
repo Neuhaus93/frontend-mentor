@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   overflow="scroll"
+   viewBox="7.59181 13.580451 33.007142 36.00052"
+   width="1700"
+   height="1377.9612"
+   version="1.1"
+   id="svg30"
+   sodipodi:docname="gmail_logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="0.16447045"
+     inkscape:cx="1516.5065"
+     inkscape:cy="518.09904"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="14.001"
+     x2="32"
+     y1="30.743999"
+     y2="30.743999"
+     gradientTransform="translate(-6.5717629,-0.4190286)">
+    <stop
+       offset="0"
+       stop-color="#c8c8c8"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#cdcdcd"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="28.665001"
+     x2="50"
+     y1="36.446999"
+     y2="36.446999"
+     gradientTransform="translate(-6.5717629,-0.4190286)">
+    <stop
+       offset="0"
+       stop-color="#d9d9d9"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#e2e2e2"
+       id="stop9" />
+  </linearGradient>
+  <g
+     transform="matrix(0.92527335,0,0,1,0.56731087,-3.7850779e-7)"
+     id="g53">
+    <path
+       id="path12"
+       fill="#eaeaea"
+       d="M 46.428237,49.580972 H 4.4282371 a 3,3 0 0 1 -3,-3 v -30 a 3,3 0 0 1 3,-3 H 46.428237 a 3,3 0 0 1 3,3 v 30 a 3,3 0 0 1 -3,3 z" />
+    <path
+       id="path14"
+       fill="#d54c3f"
+       d="m 7.4282371,49.580972 h -3 a 3,3 0 0 1 -3,-3 v -30 a 3,3 0 1 1 6,0 z" />
+    <path
+       id="path16"
+       fill="#b63524"
+       d="m 43.428237,49.580972 h 3 a 3,3 0 0 0 3,-3 v -30 a 3,3 0 1 0 -6,0 z" />
+    <path
+       id="path18"
+       fill="#de5145"
+       d="m 48.146237,19.040972 a 3.0005206,3.0005206 0 1 0 -3.436,-4.92 l -19.28,14.037 -0.002,10e-4 -0.002,-10e-4 -19.2799999,-14.037 a 3.0005206,3.0005206 0 0 0 -3.436,4.92 l -0.08,-0.059 22.7979999,16.599 m 22.799,-16.599 -22.799,16.599" />
+    <path
+       id="path20"
+       fill="#efefef"
+       d="m 46.428237,13.580972 c -0.639,0 -1.232,0.2 -1.718,0.54 l -19.28,14.037 -0.002,10e-4 -0.002,-10e-4 -19.2799999,-14.037 a 2.988,2.988 0 0 0 -1.718,-0.54 z" />
+    <path
+       id="path22"
+       fill="#c64132"
+       d="m 7.4292371,23.768972 -5.056,-5.008 -0.002,0.004 c 0.106,0.1 0.219,0.192 0.339,0.276 l -0.08,-0.059 4.8,3.495 -0.001,1.328" />
+    <path
+       id="path24"
+       fill="#e3e3e3"
+       d="m 22.096237,38.171972 -14.6679999,11.409 0.001,-25.937 14.6639999,14.524" />
+    <path
+       style="fill:url(#a)"
+       id="path26"
+       fill="url(#a)"
+       d="m 22.096237,38.171972 3.332,-2.591 -17.9989999,-13.104 v 1.167 l 14.6639999,14.524 z" />
+    <path
+       style="fill:url(#b)"
+       id="path28"
+       fill="url(#b)"
+       d="m 33.489237,49.580972 h 9.939 v -27.105 l -18,13.105 -3.335,2.587 z" />
+  </g>
+</svg>

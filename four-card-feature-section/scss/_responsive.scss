@@ -1,0 +1,35 @@
+@include media-md {
+  // body {
+  //   padding: 30px;
+  // }
+
+  main {
+    p {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    article {
+      // margin-bottom: 0px;
+      width: 40%;
+    }
+  }
+
+  @include media-lg {
+    main {
+      section {
+        article:nth-child(1) {
+          transform: translateY(50%);
+        }
+        article:nth-child(3) {
+          transform: translateY(50%);
+        }
+      }
+
+      article {
+        // margin-bottom: 0px;
+        width: 27%;
+      }
+    }
+  }
+}

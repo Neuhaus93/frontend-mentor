@@ -1,0 +1,42 @@
+section {
+  article:nth-child(1) {
+    transform: translateY(0%);
+    border-top-color: $Cyan;
+  }
+  article:nth-child(3) {
+    transform: translateY(0%);
+    border-top-color: $Blue;
+  }
+  article:nth-child(4) {
+    border-top-color: $Orange;
+  }
+}
+
+article {
+  width: 90%;
+  height: 220px;
+  display: inline-block;
+  vertical-align: top;
+  background: white;
+  position: relative;
+  text-align: left;
+  padding: 15px;
+  padding-right: 30px;
+  margin-bottom: 30px;
+  color: $GrayishBlue;
+  border-top: 5px solid $Red;
+  border-radius: 5px;
+  box-shadow: 0px 8px 16px rgba($GrayishBlue, 0.4);
+  margin: 15px;
+
+  h2 {
+    color: $VeryDarkBlue;
+    margin-top: 8px;
+    margin-bottom: 5px;
+  }
+  img {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+  }
+}
