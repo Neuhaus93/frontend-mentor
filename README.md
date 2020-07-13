@@ -12,7 +12,14 @@
 - Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 - My solution: [Link](https://neuhaus93.github.io/frontend-mentor/single-price-grid-component/dist/)
 
- 
+
+
+### :dog: Fylo Data Storage Component
+
+- Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+- My solution: [Link](https://neuhaus93.github.io/frontend-mentor/fylo-data-storage-component/dist/)
+
+  
 
 ## :mailbox_with_mail: Get in touch!
 
