@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./img/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Fylo data storage component</title>
+
+    <link rel="stylesheet" href="./css/main.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrap">
+      <main>
+        <div class="container">
+          <div class="first-card">
+            <div class="logo">
+              <img src="img/logo.svg" alt="logo" height="40" />
+            </div>
+            <div class="icons">
+              <div>
+                <img src="img/icon-document.svg" alt="document" height="20" />
+              </div>
+              <div>
+                <img src="img/icon-folder.svg" alt="folder" height="20" />
+              </div>
+              <div>
+                <img src="img/icon-upload.svg" alt="upload" height="20" />
+              </div>
+            </div>
+          </div>
+          <div class="second-card">
+            <p class="second-card__storage-used">
+              You’ve used <span>815 GB</span> of your storage
+            </p>
+            <div class="second-card__progress-bar">
+              <div class="second-card__progress-bar__current-progress">
+                <div></div>
+              </div>
+            </div>
+            <div class="second-card__bar-details">
+              <span>0 GB</span><span>1000 GB</span>
+            </div>
+            <div class="space-left">185 <span>GB Left</span></div>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <footer>
+      <p class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by
+        <a href="https://github.com/Neuhaus93" target="_blank">Lucas Neuhaus</a
+        >.
+      </p>
+    </footer>
+  </body>
+</html>
