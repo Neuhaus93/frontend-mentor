@@ -2,7 +2,8 @@ $BorderRadius: 11px;
 $CardsPadding: 2.2rem;
 
 .container {
-  margin-top: 7.5rem;
+  margin-top: 4.5rem;
+  // margin-top: 7.5rem;
   width: 86%;
 
   .first-card {
@@ -70,7 +71,7 @@ $CardsPadding: 2.2rem;
       height: 18px;
       width: 100%;
       background-color: $VeryDarkBlue;
-      padding: 2.5px;
+      padding: 3px;
       border-radius: 30px;
 
       display: flex;

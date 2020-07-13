@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  margin-top: 7.5rem;
+  margin-top: 4.5rem;
   width: 86%;
 }
 
@@ -129,7 +129,7 @@ body {
   height: 18px;
   width: 100%;
   background-color: #0c122c;
-  padding: 2.5px;
+  padding: 3px;
   border-radius: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
