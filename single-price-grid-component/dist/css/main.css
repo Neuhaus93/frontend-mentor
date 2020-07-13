@@ -7,7 +7,8 @@
 
 .card {
   width: 86%;
-  margin-top: 64px;
+  margin-top: 32px;
+  margin-bottom: 16px;
   -webkit-box-shadow: 4px 8px 20px rgba(152, 166, 189, 0.4);
           box-shadow: 4px 8px 20px rgba(152, 166, 189, 0.4);
   text-align: left;
