@@ -1,0 +1,90 @@
+$CardPaddingSmall: 1.1rem;
+
+.card {
+  width: 86%;
+  margin-top: 64px;
+  box-shadow: 4px 8px 20px rgba($GrayishBlue, 0.4);
+  text-align: left;
+
+  .header {
+    background-color: white;
+    padding: $CardPaddingSmall;
+    border-top-left-radius: $BorderRadius;
+    border-top-right-radius: $BorderRadius;
+    color: black;
+
+    h3 {
+      color: $Cyan;
+    }
+
+    h4 {
+      color: $BrightYellow;
+      margin-top: 0.8rem;
+      margin-bottom: 0.8rem;
+    }
+
+    p {
+      color: $GrayishBlue;
+      font-size: 0.8rem;
+      line-height: 1.2rem;
+    }
+  }
+
+  .subscription {
+    background-color: $Cyan;
+    padding: $CardPaddingSmall;
+
+    .price {
+      margin-top: 0.7rem;
+      margin-bottom: 0.6rem;
+      p {
+        display: flex;
+        align-items: center;
+        color: $SoftText;
+
+        span {
+          font-size: 1.9rem;
+          margin-right: 0.8rem;
+          color: white;
+          font-weight: 700;
+        }
+      }
+    }
+
+    .signup-button {
+      margin: auto;
+      margin-top: 24px;
+      margin-bottom: 12px;
+      height: 40px;
+      width: 86%;
+      background-color: $BrightYellow;
+      color: white;
+      text-align: center;
+      border-radius: 6px;
+      box-shadow: 0px 5px 8px rgba(black, 0.15);
+      line-height: 40px;
+
+      p {
+        line-height: 1.5;
+        display: inline-block;
+        font-weight: 700;
+      }
+    }
+  }
+
+  .why-us {
+    background-color: $CyanBrighter;
+    padding: $CardPaddingSmall;
+    border-bottom-left-radius: $BorderRadius;
+    border-bottom-right-radius: $BorderRadius;
+
+    h3 {
+      margin-bottom: 0.9rem;
+    }
+
+    p {
+      color: $SoftText;
+      line-height: 1.3rem;
+    }
+  }
+}

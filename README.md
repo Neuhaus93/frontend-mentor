@@ -7,6 +7,13 @@
 
 
 
+### :cat: Single Price Grid Component
+
+- Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+- My solution: [Link](https://neuhaus93.github.io/frontend-mentor/single-price-grid-component/dist/)
+
+ 
+
 ## :mailbox_with_mail: Get in touch!
 
 <p align="center">

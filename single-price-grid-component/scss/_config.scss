@@ -1,0 +1,33 @@
+$Cyan: hsl(179, 62%, 43%);
+$CyanBrighter: hsl(179, 47%, 52%);
+$BrightYellow: hsl(71, 73%, 54%);
+
+$LightGray: hsl(204, 43%, 93%);
+$GrayishBlue: hsl(218, 22%, 67%);
+$SoftText: hsl(180, 87%, 82%);
+
+$BorderRadius: 6px;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@mixin media-md {
+  @media screen and (min-width: 768px) {
+    @content;
+  }
+}
+
+@mixin media-lg {
+  @media screen and (min-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin media-xl {
+  @media screen and (min-width: 1600px) {
+    @content;
+  }
+}

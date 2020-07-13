@@ -1,0 +1,43 @@
+$CardPaddingMd: 1.7rem;
+
+@include media-md {
+  .card {
+    width: 70%;
+    margin-top: 150px;
+
+    .header {
+      padding: $CardPaddingMd;
+    }
+  }
+
+  .bottom {
+    display: flex;
+    flex-flow: row wrap;
+
+    width: 100%;
+    height: 30vh;
+
+    .subscription {
+      width: 50%;
+      border-bottom-left-radius: $BorderRadius;
+      padding: $CardPaddingMd;
+
+      .signup-button {
+        margin-top: 32px;
+      }
+    }
+
+    .why-us {
+      width: 50%;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: $BorderRadius;
+      padding: $CardPaddingMd;
+    }
+  }
+
+  @include media-lg {
+    .card {
+      width: 52%;
+    }
+  }
+}

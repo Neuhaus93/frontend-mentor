@@ -1,8 +1,4 @@
 @include media-md {
-  // body {
-  //   padding: 30px;
-  // }
-
   main {
     p {
       margin-left: auto;
@@ -10,7 +6,6 @@
     }
 
     article {
-      // margin-bottom: 0px;
       width: 40%;
     }
   }
@@ -27,7 +22,6 @@
       }
 
       article {
-        // margin-bottom: 0px;
         width: 27%;
       }
     }
