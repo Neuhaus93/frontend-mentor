@@ -110,10 +110,9 @@ $CardsPadding: 2.2rem;
       color: $PaleBlue;
     }
 
-    .space-left {
+    &__space-left {
       height: 70px;
       width: 170px;
-      transform: translateX(29%);
       border-radius: 10px;
 
       position: absolute;
@@ -127,6 +126,8 @@ $CardsPadding: 2.2rem;
 
       background-color: white;
       color: black;
+
+      transform: translateX(29%);
       bottom: -35px;
 
       span {

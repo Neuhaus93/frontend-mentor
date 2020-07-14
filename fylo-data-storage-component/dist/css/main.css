@@ -173,11 +173,9 @@ body {
   color: #dddbff;
 }
 
-.container .second-card .space-left {
+.container .second-card__space-left {
   height: 70px;
   width: 170px;
-  -webkit-transform: translateX(29%);
-          transform: translateX(29%);
   border-radius: 10px;
   position: absolute;
   display: -webkit-box;
@@ -194,13 +192,74 @@ body {
   text-transform: uppercase;
   background-color: white;
   color: black;
+  -webkit-transform: translateX(29%);
+          transform: translateX(29%);
   bottom: -35px;
 }
 
-.container .second-card .space-left span {
+.container .second-card__space-left span {
   font-size: 0.85rem;
   color: #848794;
   margin-left: 0.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    background-color: #0c122c;
+    background-image: url("../img/bg-desktop.png");
+    background-repeat: no-repeat;
+    background-size: 100% 50vh;
+    background-position: bottom;
+  }
+  main {
+    padding-top: 36vh;
+  }
+  .container {
+    margin-top: 0rem;
+    height: 100%;
+    width: 65%;
+    width: 65%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+  }
+  .container .first-card {
+    width: 500px;
+    margin-right: 40px;
+  }
+  .container .first-card .icons {
+    width: 190px;
+  }
+  .container .second-card {
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 2.6rem;
+    padding-top: 3rem;
+  }
+  .container .second-card__storage-used {
+    text-align: left;
+  }
+  .container .second-card__space-left {
+    bottom: 0px;
+    top: -45px;
+    right: 80px;
+    border-bottom-right-radius: 0px;
+  }
+  .container .second-card__space-left::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: -23px;
+    border: 23px solid transparent;
+    border-right-color: white;
+  }
 }
 
 html,
@@ -214,7 +273,7 @@ body {
 }
 
 #wrap {
-  min-height: 100%;
+  height: 100%;
 }
 
 main {
