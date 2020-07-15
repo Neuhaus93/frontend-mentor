@@ -1,0 +1,45 @@
+@include media-md {
+  main {
+    height: 100%;
+    padding-top: 0rem;
+  }
+
+  .article {
+    width: 54%;
+    height: 40vh;
+    padding-bottom: 0;
+
+    display: flex;
+    flex-flow: column wrap;
+    align-items: strech;
+    justify-content: center;
+
+    &__post-img {
+      height: 100%;
+      width: 39%;
+    }
+
+    &__content {
+      width: 61%;
+      padding-top: 0px;
+      padding-left: 50px;
+      padding-right: 65px;
+      margin-bottom: 16px;
+    }
+
+    &__details {
+      padding-right: 65px;
+      padding-left: 50px;
+
+      &__author-img {
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+      }
+
+      &__author-date {
+        padding-left: 25px;
+      }
+    }
+  }
+}
