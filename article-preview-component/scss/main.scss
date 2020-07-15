@@ -1,7 +1,7 @@
 @import 'config';
 @import 'background';
-@import 'container';
-@import 'responsive';
+@import 'article';
+// @import 'responsive';
 
 $FooterSize: 30px;
 
@@ -11,8 +11,8 @@ body {
 }
 
 body {
-  font-family: 'Raleway', sans-serif;
-  font-size: 14px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
 }
 
 #wrap {
@@ -27,7 +27,7 @@ main {
   padding-bottom: $FooterSize;
   display: flex;
   justify-content: center;
-  color: white;
+  align-items: center;
 }
 
 footer {
@@ -35,5 +35,4 @@ footer {
   margin-top: -$FooterSize;
   height: $FooterSize;
   clear: both;
-  color: white;
 }

@@ -17,7 +17,17 @@
 ### :dog: Fylo Data Storage Component
 
 - Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
+
 - My solution: [Link](https://neuhaus93.github.io/frontend-mentor/fylo-data-storage-component/dist/)
+
+
+
+### :tiger: Article Preview Component
+
+- Frontend mentor: [Link](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+- My solution: [Link](https://neuhaus93.github.io/frontend-mentor/article-preview-component/dist/)
+
+  
 
   
 
