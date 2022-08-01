@@ -1,0 +1,22 @@
+.balance {
+    background-color: var(--primary-c-red);
+    color: var(--neutral-c-orange);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: var(--default-border-radius);
+    text-align: start;
+    height: 100px;
+}
+
+.balance > div {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+svg {
+    margin: 8px;
+}

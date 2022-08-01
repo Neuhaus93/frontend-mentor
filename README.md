@@ -1,20 +1,24 @@
 ## :rocket: ​Challenges
 
-### :fish: Four Cards Feature Section Challenge
+### Expense Chart Component
+- Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
+- My solution: [Link](https://neuhaus93.github.io/frontend-mentor/expense-chart-component/dist/)
+
+### Four Cards Feature Section
 
 - Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 - My solution: [Link](https://neuhaus93.github.io/frontend-mentor/four-card-feature-section/dist/)
 
 
 
-### :cat: Single Price Grid Component
+### Single Price Grid Component
 
 - Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
 - My solution: [Link](https://neuhaus93.github.io/frontend-mentor/single-price-grid-component/dist/)
 
 
 
-### :dog: Fylo Data Storage Component
+### Fylo Data Storage Component
 
 - Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
@@ -22,7 +26,7 @@
 
 
 
-### :tiger: Article Preview Component
+### Article Preview Component
 
 - Frontend mentor: [Link](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 - My solution: [Link](https://neuhaus93.github.io/frontend-mentor/article-preview-component/dist/)
