@@ -2,36 +2,34 @@
 
 ### Age Calculator App
 
--   Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q" target="_blank">Link</a>
--   My solution: <a href="https://neuhaus93.github.io/frontend-mentor/age-calculator-app/dist/" target="_blank">Link</a>
+-   Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q)
+-   My solution: [Link](https://neuhaus93.github.io/frontend-mentor/age-calculator-app/dist/)
 
 ### Expense Chart Component
 
-<!-- <a href="" target="_blank">Link</a> -->
-
--   Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt" target="_blank">Link</a>
--   My solution: <a href="https://neuhaus93.github.io/frontend-mentor/expense-chart-component/dist/" target="_blank">Link</a>
+-   Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
+-   My solution: [Link](https://neuhaus93.github.io/frontend-mentor/expense-chart-component/dist/)
 
 ### Four Cards Feature Section
 
--   Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK" target="_blank">Link</a>
--   My solution: <a href="https://neuhaus93.github.io/frontend-mentor/four-card-feature-section/dist/" target="_blank">Link</a>
+-   Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
+-   My solution: [Link](https://neuhaus93.github.io/frontend-mentor/four-card-feature-section/dist/)
 
 ### Single Price Grid Component
 
--   Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc" target="_blank">Link</a>
--   My solution: <a href="https://neuhaus93.github.io/frontend-mentor/single-price-grid-component/dist/" target="_blank">Link</a>
+-   Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
+-   My solution: [Link](https://neuhaus93.github.io/frontend-mentor/single-price-grid-component/dist/)
 
 ### Fylo Data Storage Component
 
--   Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n" target="_blank">Link</a>
+-   Frontend Mentor: [Link](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
--   My solution: <a href="https://neuhaus93.github.io/frontend-mentor/fylo-data-storage-component/dist/" target="_blank">Link</a>
+-   My solution: [Link](https://neuhaus93.github.io/frontend-mentor/fylo-data-storage-component/dist/)
 
 ### Article Preview Component
 
--   Frontend mentor: <a href="https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT" target="_blank">Link</a>
--   My solution: <a href="https://neuhaus93.github.io/frontend-mentor/article-preview-component/dist/" target="_blank">Link</a>
+-   Frontend mentor: [Link](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+-   My solution: [Link](https://neuhaus93.github.io/frontend-mentor/article-preview-component/dist/)
 
 ## :mailbox_with_mail: Get in touch!
 
